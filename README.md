@@ -34,9 +34,9 @@ Egypt-Japan University of Science and Technology
 
 ---
 
-## 📫 Connect
-- GitHub: https://github.com/YOUR_USERNAME  
-- LinkedIn: (your link)
+## 📫 Connect  
+- LinkedIn: (www.linkedin.com/in/yousifeldeib)
+- Gmail : yousifeldeib@gmail.com
 
 ---
 
