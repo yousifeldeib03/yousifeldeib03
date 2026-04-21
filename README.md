@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Yousif Amin Eldeib
 
-<!--
-**yousifeldeib03/yousifeldeib03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇪🇬 Junior Data Engineer from Egypt  
+💼 Data Engineering Intern @ DEPI  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Working on **Cloud Data Engineering & Data Warehousing**
+- Interested in **ETL/ELT pipelines and scalable data systems**
+- Background in **Python, SQL, and backend development**
+
+---
+
+## 🛠️ Tools & Technologies
+- **Azure** (Data Factory, Synapse, Databricks)  
+- **Docker**  
+- **SQL Server, SSIS**  
+- **Airflow, Spark, Kafka**  
+- **Flask, Streamlit**
+
+---
+
+## 📂 Projects
+- **Azure Data Factory ETL Pipeline** – Data cleaning & transformation using cloud pipelines  
+- **Telecom ETL (SSIS)** – Built data warehouse pipeline from CSV data  
+- **E-Commerce Backend** – Flask-based system for users, products, and transactions  
+
+---
+
+## 🎓 Education
+BSc Computer Engineering  
+Egypt-Japan University of Science and Technology  
+
+---
+
+## 📫 Connect
+- GitHub: https://github.com/YOUR_USERNAME  
+- LinkedIn: (your link)
+
+---
+
+⭐ Focused on building reliable and scalable data solutions
